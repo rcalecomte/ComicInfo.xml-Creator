@@ -57,4 +57,4 @@ This project was developed with the assistance of a local LLM, Gemini4:31b. The 
 
 📄 License
 -
-This project is licensed under the MIT License - see the LICENSE [blocked] file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
