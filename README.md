@@ -53,7 +53,7 @@ pyinstaller --noconsole --onefile --icon=app_icon.ico comic_app.py
 
 🤖 AI Disclosure
 -
-This project was developed with the assistance of a Gemini4:31b. The AI was used to architect the GUI layout, implement the XML generation logic, and optimize the user interface for a modern experience. The code was then reviewed and refined for functionality and usability.
+This project was developed with the assistance of a local LLM, Gemini4:31b. The AI was used to architect the GUI layout, implement the XML generation logic, and optimize the user interface for a modern experience. The code was then reviewed and refined for functionality and usability.
 
 📄 License
 -
