@@ -1,6 +1,10 @@
 📚 ComicInfo XML Generator
 -
-A modern, lightweight Windows application designed to help digital comic book collectors and archivists create ComicInfo.xml files. This tool provides a user-friendly graphical interface to input comic metadata and export it into a standardized XML format.
+A modern, lightweight Windows application designed to help digital comic book collectors and archivists create ComicInfo.xml files. This tool provides a user-friendly graphical interface to input comic metadata and export it into a standardized XML format.  
+This application was designed to comply with the Anansi Project and to be used with self-hosted digital libraries such as Kavita.  
+
+https://anansi-project.github.io/docs/introduction  
+https://wiki.kavitareader.com/
 
 ✨ Features
 -
