@@ -29,7 +29,7 @@ pip install customtkinter
 ```
 3. Run the Application
 ```
-python comic_info_gen.py
+python comic_app.py
 ```
 
 📦 Creating a Windows Executable (.exe)
